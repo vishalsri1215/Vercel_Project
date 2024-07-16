@@ -67,7 +67,7 @@ const faqData: FAQData = {
   'The customer from question 5 replies to your response with the below: \n \"I am so frustrated. I\’ve been trying to make this work for hours and I just can\’t figure it out. It must be a platform issue so just fix it for me instead of asking me questions\". Please write a follow-up reply to the customer.': 
   [
     {
-      title: 'Suggested Response',
+      title: 'My Response',
       content: [
         'Hi [Customer name],',
         'I apologize for the inconvenience you are facing. It is possible for us to arrive at the cause of that problem easier and more accurately if we receive the necessary data. Usually, it’s about a certain setup or a recent change in the code. Please assist us so that we can find solutions more quickly and resolve this problem. We will help you as best as we can..',
